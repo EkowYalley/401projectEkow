@@ -1,0 +1,93 @@
+# Ignore Jupyter Notebook checkpoint directories
+
+.ipynb_checkpoints/
+
+
+
+# Ignore Python cache directories
+
+__pycache__/
+
+
+
+# Ignore temporary files (e.g., from text editors)
+
+*~
+
+.~lock.*
+
+
+
+# Ignore compiled files and executables
+
+*.pyc
+
+*.o
+
+*.out
+
+*.exe
+
+
+
+# Ignore program output files
+
+*.log
+
+*.csv
+
+*.json
+
+*.xlsx
+
+*.pdf
+
+
+
+# Ignore environment and configuration files (if not shared)
+
+.env
+
+.venv/
+
+venv/
+
+env/
+
+
+
+# Ignore IDE-specific files
+
+.vscode/
+
+.idea/
+
+*.swp
+
+
+
+# Ignore large data files (add specific extensions if needed)
+
+*.dat
+
+*.hdf5
+
+*.npy
+
+
+
+# Ignore binary files (except images for documentation)
+
+*.docx
+
+*.xlsx
+
+*.pptx
+
+*.bin
+
+
+
+# Ignore system-specific files (e.g., macOS)
+
+.DS_Store
